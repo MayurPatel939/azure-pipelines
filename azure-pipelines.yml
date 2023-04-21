@@ -7,10 +7,6 @@
 trigger:
 - main
 
-variables:
-   - name: process.clean
-     value: false
-
 pool: Default
 
 stages:
